@@ -16,14 +16,14 @@ let tile9 = document.querySelector('.tile-9')
 // 1. Tile 1 feels a little sad. 
 // - Update the inner HTML to show an encouraging message! 
 // - Something like "YOU GOT THIS!" or even a "You're a beautiful person!" 
-
+tile1.innerHTML = "U remind me of Jesus"
 
 
 // 2. Tile 2 has a button. 
 // - Create a click event and have the background color of tile 2 change to a shade of green.
 // - BE SURE TO SAVE THE BUTTON FIRST AS A VARIABLE.
 // - Can you see if there's a way to toggle it???
-
+tile2.
 
 // 3. What's this? A totoro? Where's his friends? 
 // - Using createElement, create a friend (an image element).
